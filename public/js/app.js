@@ -1,6 +1,3 @@
-
-console.log("MY JavaScript")
-
 function fun(){
     const location = document.getElementById('location').value
     fetch('http://localhost:3000/weather?address='+location).then((response)=>{
