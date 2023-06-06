@@ -1,0 +1,21 @@
+body{
+    color: #333;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+div{
+    display: block;
+}
+div a{
+    
+    text-decoration: none;
+}
+
+footer {
+    background-color: #333;
+    color:aliceblue;
+
+}
